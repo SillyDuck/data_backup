@@ -1,0 +1,4 @@
+read aig testcase/6s127.aig
+set solver -mi
+set safe 0
+ver pdr p1 -s
